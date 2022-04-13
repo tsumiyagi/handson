@@ -1,2 +1,6 @@
-it's first doc
+
+
+
+first doc
+>>>>>>> fitst.txtを修正
 ２行目
