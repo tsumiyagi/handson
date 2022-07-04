@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 tekitounasyuuseidayo^^
+=======
+handson2で修正しました。
+>>>>>>> 175aa42e1a9cd997391fd1a5ab2030dc2351b807
 
 
 first doc
